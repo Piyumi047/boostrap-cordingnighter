@@ -1,0 +1,39 @@
+body {
+padding: 0;
+margin: 0;
+background: #f2f6e9;
+
+}
+
+/*--- navigation bar ---*/
+.navbar {
+background:#3A01DF;
+
+}
+.nav-link,
+.navbar-brand {
+color:#E0F8F7 ;
+cursor: pointer;
+}
+
+.navbar-brand:hover {
+	color:#FFFF00 ;
+}
+.nav-link {
+margin-right: 1em !important;
+}
+.nav-link:hover {
+color: #FFFF00;
+}
+
+
+.table-striped
+{
+	width: 800px;
+	position: absolute;
+	right: 50%;
+	left: 30%;
+   
+}
+
+/*create.php*/
